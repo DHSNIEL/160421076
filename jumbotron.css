@@ -4,3 +4,43 @@ body {
   padding-top: 3.5rem;
 }
 
+.item1, .item2, .item3, .item4{
+  padding-top: 2%;
+  color: white;
+  
+  margin: 2%;
+}
+/* abu dhabi */
+.item1{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://www.timeoutabudhabi.com/cloud/timeoutabudhabi/2021/10/31/Abu-Dhabi-named-one-of-best-capitals-for-a-holiday.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/* paris */
+.item2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1200px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/* barcelona */
+.item3{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://static.independent.co.uk/2023/03/10/14/iStock-1320014700.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+/* london */
+.item4{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.jumbotron{
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+  /* z-index: 1; */
+  /* background-image: url("https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
