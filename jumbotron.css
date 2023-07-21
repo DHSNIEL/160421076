@@ -10,6 +10,7 @@ body {
   
   margin: 2%;
 }
+
 /* abu dhabi */
 .item1{
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://www.timeoutabudhabi.com/cloud/timeoutabudhabi/2021/10/31/Abu-Dhabi-named-one-of-best-capitals-for-a-holiday.jpg");
@@ -34,6 +35,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
+
 .jumbotron{
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
